@@ -1,0 +1,8 @@
+Based on the following information, answer the question accurately and concisely.
+If the information provided is not sufficient to answer the question, state that.
+
+Information:
+{context}
+
+Question: {query}
+Answer:
