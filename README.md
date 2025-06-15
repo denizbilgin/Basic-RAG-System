@@ -4,6 +4,8 @@ This project implements a lightweight **Retrieval-Augmented Generation (RAG)** s
 
 While simple by design, this system demonstrates how combining vector-based retrieval with generation can simulate up-to-date knowledge in a modular and extendable architecture.
 
+You can test the prompt in the `prompt.txt` file or the RAG texts `documents.txt` to be given to the GPT-2 model by editing them as you wish.
+
 ---
 
 ## How It Works
